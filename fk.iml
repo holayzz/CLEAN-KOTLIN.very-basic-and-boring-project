@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Lesson-2_Smart-Objects-and-Inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lesson-3_Interfaces" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lesson-4_Data_Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lesson-5_Space" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
